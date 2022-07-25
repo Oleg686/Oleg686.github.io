@@ -8,5 +8,3 @@ Hardworking, inclined to a systematic approach, stress-resistant, I love and kno
 Knowledge of the language: Graduated from the English special school. I understand by ear, I talk, I can correspond.
 
 I don't smoke, I don't drink, I do sports
-
-Link to GitHub: https://github.com/Oleg686
