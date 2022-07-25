@@ -1,5 +1,5 @@
 Hi there 👋, my name is Oleg Zhobitenko, this is my portfolio, it contains additional information.
-About me: In recent years I have been studying without the opportunity to work. At the moment, I finished my internship after the 3rd year, the last 4 year of college remained.
+About me: In recent years I have been studying without the opportunity to work. At the moment,I have just finished the 3rd year of the College of: "Computer Science and Programming at the Financial University under the Government of the Russian Federation"
 
 I am looking for a job in the profile to gain experience and practical knowledge, with the possibility of further long-term and mutually beneficial cooperation. I am sure I will be (as soon as possible) useful to the team.
 
